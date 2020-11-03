@@ -1,0 +1,21 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "Test Node Package",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashercsulb/testnode.git"
+  },
+  "author": "Asher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashercsulb/testnode/issues"
+  },
+  "homepage": "https://github.com/ashercsulb/testnode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
